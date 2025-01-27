@@ -1,0 +1,3 @@
+Actualmente estoy tratando de actualizar la versión del paquete GnuPG, a través del código abierto de IBMi, sin embargo, esta herramienta no encuentra la nueva versión para dar continuidad a la actualización.
+Es importante mencionar que tengo instalada la versión 2.2.19-8 y debo actualizar a la versión 2.4.7, partiendo de este punto y dado que el proceso debe ser manual ya que no puedo ver la nueva versión, me dirijo a uds para consultar si es posible realizar la actualización automática y si esta versión es compatible con IBM i 7.4.?
+De existir un modo de poder actualizar de forma automática a través del gestor de código abierto de IBM i, ¿me podría orientar con el proceso que se debe realizar para ello?
